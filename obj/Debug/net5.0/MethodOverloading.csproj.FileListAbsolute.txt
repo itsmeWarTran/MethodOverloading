@@ -1,0 +1,15 @@
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/bin/Debug/net5.0/MethodOverloading.deps.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/bin/Debug/net5.0/MethodOverloading.runtimeconfig.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/bin/Debug/net5.0/MethodOverloading.runtimeconfig.dev.json
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/bin/Debug/net5.0/MethodOverloading.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/bin/Debug/net5.0/ref/MethodOverloading.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/bin/Debug/net5.0/MethodOverloading.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.csproj.AssemblyReference.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.AssemblyInfoInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.AssemblyInfo.cs
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/ref/MethodOverloading.dll
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.pdb
+/Users/itsmewar_tran/Desktop/repo/C# 27/MethodOverloading/obj/Debug/net5.0/MethodOverloading.genruntimeconfig.cache
